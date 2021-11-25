@@ -19,10 +19,10 @@ namespace LearnFacade.Test
             //Action
            
             //Assert
-            player1.word1.ShouldNotBe("");
-            player1.word2.ShouldNotBe("");
-            player2.word1.ShouldNotBe("");
-            player2.word2.ShouldNotBe("");
+            player1.word1.ShouldNotBeNullOrEmpty("");
+            player1.word2.ShouldNotBeNullOrEmpty("");
+            player2.word1.ShouldNotBeNullOrEmpty("");
+            player2.word2.ShouldNotBeNullOrEmpty("");
 
         }
         [Fact]
@@ -33,13 +33,12 @@ namespace LearnFacade.Test
             Player2 player2 = new Player2();
             
             //Action
-            player1.word1=" ";
+            player1.word1="hello ";
             player2.word1="oil";
             player1.word2 ="lol";
             player2.word2 = "live";
             
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Because wrong input Round 1: Player 1 lose";
             
             //Assert
@@ -61,7 +60,6 @@ namespace LearnFacade.Test
             player2.word2 = "live";
             
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Because wrong input Round 1: Player 2 lose";
             
             //Assert
@@ -78,11 +76,10 @@ namespace LearnFacade.Test
             //Action
             player1.word1="king";
             player2.word1="oil";
-            player1.word2 ="live ";
-            player2.word2 = " eye";
+            player1.word2 =" live";
+            player2.word2 = "eye";
             
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Because wrong input Round 2: Player 1 lose";
             
             //Assert
@@ -103,7 +100,6 @@ namespace LearnFacade.Test
             player2.word2 = " eye";
             
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Because wrong input Round 2: Player 2 lose";
             
             //Assert
@@ -123,7 +119,6 @@ namespace LearnFacade.Test
             player1.word2 ="oliva";
             player2.word2 = "alive";
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Round 2: Player 1 lose";
 
 
@@ -143,7 +138,6 @@ namespace LearnFacade.Test
             player1.word2 ="lol";
             player2.word2 = "live";
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Round 1: Player 2 lose";
 
 
@@ -163,7 +157,6 @@ namespace LearnFacade.Test
             player1.word2 ="oil";
             player2.word2 = "eat";
             GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
             var scoreOfTheGame = "Round 2: Player 2 lose";
 
             //Assert
@@ -181,8 +174,7 @@ namespace LearnFacade.Test
             player2.word1="goal";
             player1.word2 ="live";
             player2.word2 = "evil";
-            GameNextWord gameNextWord = new GameNextWord(player1, player2);
-            gameNextWord.Operation();
+            GameNextWord gameNextWord = new GameNextWord(player1, player2); 
             var scoreOfTheGame = "The game is ended in a draw";
 
             //Assert
