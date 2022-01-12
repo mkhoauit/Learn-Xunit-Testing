@@ -1,0 +1,164 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=02d58593_002Da5aa_002D45c9_002D9394_002D7be654e7d0d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::F28E998F-6488-4119-9B8A-2968ED8679C8::net5.0::LearnFacade.Test.UnitTest1.Word1OfPlayer1_NotEqual_to_Space&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=117456fd_002Dcf02_002D4eee_002D9526_002Da86f2cec1706/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=142e0da9_002D748f_002D4e1c_002Daa9d_002De636ede1d378/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a99471b_002Dbd70_002D49ad_002D8ff3_002Dbea9f7c65ece/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2d105793_002D981e_002D4c07_002D8221_002D41e96f063f23/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2dac68aa_002D79d4_002D411f_002Db6fe_002D37cedad8622b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Word1OfPlayer1_NotEqual_to_Space" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::F28E998F-6488-4119-9B8A-2968ED8679C8::net5.0::LearnFacade.Test.GameNextWordTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Flavor_ShouldNotBe_Null_Or_Empty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_in_BubbleTea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_in_BubbleTea_And_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_In_BlackTea_And_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_In_GreenTea_And_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_In_PeachTea_And_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BlackTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e0e89f7_002Db60b_002D49b2_002D9128_002D7a6b33c717d1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #8" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=67ea1bc3_002D3acd_002D4d1b_002Dbe0b_002D8fbc9bfe8885/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BlackTea_ShouldNotBeNullOrEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BlackTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9ae73b15_002D01e8_002D4157_002D94e5_002Dae9020c8c95b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AddTea_Correctly_In_PeachTea_And_ShouldNotBeNullOrEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddTea_Correctly_In_PeachTea_And_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BlackTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_All_Tea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_In_All_Tea_With_NoTopping_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_In_All_Tea_With_Topping_Flan_Or_Pearl_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_In_All_Tea_With_Topping_Jelly_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_In_All_Tea_With_Topping_Peach_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_In_All_Tea_With_Topping_Cheese_Or_Orange_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Wrong_Input_Flavor_ShoudlBe_Total_NoTopping&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+BusTest.Ticket_Bus_ShouldBe_5000_And_RoundTrip_Ticket_ShouldBe_9500&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_GrabBike_ShouldBe_30000_And_RoundTrip_Ticket_ShouldBe_9500&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_GrabBike_ShouldBe_30000_And_RoundTrip_Ticket_ShouldBe_57000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_GrabCar_ShouldBe_40000_And_RoundTrip_Ticket_ShouldBe_57000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_GrabCar_ShouldBe_40000_And_RoundTrip_Ticket_ShouldBe_76000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_Train_ShouldBe_60000_And_RoundTrip_Ticket_ShouldBe_76000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_Train_ShouldBe_60000_And_RoundTrip_Ticket_ShouldBe_114000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+BusTest.Ticket_3km_Bus_ShouldBe_15000_And_RoundTrip_Ticket_ShouldBe_&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+BusTest.Ticket_4km_Bus_ShouldBe_20000_With_No_RoundTrip&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+BusTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_1km_GrabBike_ShouldBe_30000_And_RoundTrip_Ticket_ShouldBe_9500&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_1km_GrabBike_ShouldBe_30000_And_RoundTrip_Ticket_ShouldBe_57000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_3km_GrabBike_ShouldBe_90000_And_RoundTrip_Ticket_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_3km_GrabBike_ShouldBe_90000_And_RoundTrip_Ticket_ShouldBe_171000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_1km_GrabCar_ShouldBe_40000_And_RoundTrip_Ticket_ShouldBe_57000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_3km_GrabBike_ShouldBe_1200000_And_RoundTrip_Ticket_ShouldBe_171000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_3km_GrabBike_ShouldBe_1200000_And_RoundTrip_Ticket_ShouldBe_2000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest.Ticket_3km_GrabBike_ShouldBe_1200000_And_RoundTrip_Ticket_ShouldBe_228000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabBikeTest.Ticket_4km_GrabBike_ShouldBe_120000_With_No_RoundTrip&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+GrabCarTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_1km_Train_ShouldBe_60000_And_RoundTrip_Ticket_ShouldBe_76000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_1km_Train_ShouldBe_60000_And_RoundTrip_Ticket_ShouldBe_114000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_3km_Train_ShouldBe_1800000_And_RoundTrip_Ticket_ShouldBe_228000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_3km_Train_ShouldBe_1800000_And_RoundTrip_Ticket_ShouldBe_342000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A9E9E468-5E24-4D3A-BB20-6692825836B8::net5.0::LearnStrategy.Test.StrategyTest+TrainTest.Ticket_4km_Train_ShouldBe_240000_With_No_RoundTrip&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50285C00-357C-498D-9242-FEC3EF0F140F::net5.0::Builder.Test.BuilderTest.NormalService_ShouldBe_40000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50285C00-357C-498D-9242-FEC3EF0F140F::net5.0::Builder.Test.BuilderTest.FullService_ShouldBe_55000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::50285C00-357C-498D-9242-FEC3EF0F140F::net5.0::Builder.Test.BuilderTest.CustomService_ShouldBe_15000_to_25000&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_Your_Amount_Lower_Than_Minimum_Amount_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Wrong_Input_Operator_In_Calculator_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Check_Compute_In_Client_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Check_Compute_In_Client_ShouldContain&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Check_Undo_In_Client_ShouldContain&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Check_Redo_In_Client_ShouldContain&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Not_Undo_Then_Check_Redo_In_Client_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Not_Compute_Then_Check_Undo_In_Client_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.Use_1_Instance_Logger&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Input_NullOrEmpty_Name_In_Messenger_Or_Zalo_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::16BC36CE-55D7-437D-9868-53F4BB4BAC96::net5.0::LearnState.Test.StateTest.Input_Wrong_Button_To_Turn_On_Or_Off_TV&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::16BC36CE-55D7-437D-9868-53F4BB4BAC96::net5.0::LearnState.Test.StateTest.Input_Wrong_Button_To_Turn_On_TV&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::16BC36CE-55D7-437D-9868-53F4BB4BAC96::net5.0::LearnState.Test.StateTest.Input_Wrong_Button_To_Turn_Off_TV&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::16BC36CE-55D7-437D-9868-53F4BB4BAC96::net5.0::LearnState.Test.StateTest.Switch_Channel_Before_Turn_On_TV_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::16BC36CE-55D7-437D-9868-53F4BB4BAC96::net5.0::LearnState.Test.StateTest.Switch_Channel_After_Turn_On_TV_ShouldBe&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a86a992a_002Dcb0f_002D4280_002D81af_002D39794fee500d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #7" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0de2bf6_002D1eff_002D4810_002D8d4c_002D1dfacfc0fd22/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b767b5b3_002D2f58_002D44f6_002Db1d6_002D8246b55ed3f0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d1785993_002D3ddc_002D43a2_002D8301_002Dd09185db0c4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BlackTea_ShouldNotBeNullOrEmpty #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_YourAmount_Minus_RequestAmount_Lower_Than_MinimumAmount_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_YourAmount_After_Withdraw_RequestAmount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_YourAmount_Lower_Than_MinimumAmount_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_Withdraw_Lower_Than_50000_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::C8FCCB2D-B7AF-48A0-8AA1-1ADCA657EF93::net5.0::ChainOfResp.Test.ATM_Test.Check_YourAmount_Lower_Than_100000_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test.Wrong_Input_Operator_In_Calculator_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F718113-D9C9-42B2-9994-69CDB59D3A79::net5.0::PracticeCommand.Test.Calculator_Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.Use_1_Instance_Logger&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.Not_Find_Message_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.Message_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.WriteMessage_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest.Check_WriteMessage_BeNullOrEmpty_ShouldThrow&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::585C8AFC-7A12-401C-B894-CCD82322F43F::net5.0::LearnSingleton.Test.SingletonTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Input_NullOrEmpty_Name_In_Messenger_Or_Zalo_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Input_NullOrEmpty_Name_In_Messenger_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Input_NullOrEmpty_Name_In_Zalo_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Register_Chatroom_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Send_Receive_Message_ToMessenger_ShouldBe&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A242CF73-B545-4DF4-A107-AE2465722EEB::net5.0::LearnMediator2.Test.UnitTest1.Check_Send_Receive_Message_ToZalo_ShouldBe&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d468c030_002Ddc51_002D4dac_002Dbfe4_002D496f1988aca2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.AddFlavor_In_BubbleTea_ShouldNotBeNullOrEmpty&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9ec9ec3_002D30c5_002D479b_002Db3c3_002De3fcfd7f892e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ec8162e1_002Dc57f_002D4a03_002D8979_002D7bd1bb70b5d8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #9" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa0042b2_002De5fc_002D44fd_002D91b4_002D08d48a2ed575/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Total_Drink_BubbleTea_ShouldBe_25to32 #6" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::873993F9-36FA-42DC-BA01-1FF571DBB17A::net5.0::LearnTemplateMethod.Test.TemplateMethodTest.Total_Drink_BubbleTea_ShouldBe_25to32&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

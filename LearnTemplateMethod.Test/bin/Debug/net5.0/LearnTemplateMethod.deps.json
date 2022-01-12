@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LearnTemplateMethod/1.0.0": {
+        "runtime": {
+          "LearnTemplateMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LearnTemplateMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
